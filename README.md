@@ -1,5 +1,5 @@
 # Pahang-Water
-This is a prototype of an application called Pahang Water. This prototype was made on the Proto.io platform, where it functions as a mockup of the real application.
+This is a prototype of an application called Pahang Water. An app focused on the flood conditions in Pahang state. This prototype was made on the Proto.io platform, where it functions as a mockup of the real application.
 
 Steps to access this file:
 1. Download "Pahang Water-html.zip"
@@ -9,4 +9,4 @@ Steps to access this file:
 5. Open HTML files in "preview" or "fullscreen"
 
 Screenshot of the project:
-
+![Screenshot](https://github.com/AizadOsman/Pahang-Water/ss)
