@@ -9,4 +9,4 @@ Steps to access this file:
 5. Open HTML files in "preview" or "fullscreen"
 
 Screenshot of the project:
-![Alt text](images/ss.png?raw=true)
+![Alt text](https://github.com/AizadOsman/Pahang-Water/blob/47f32ccb4133b7840c16cae02b47126e1dd2dab2/ss.png)
